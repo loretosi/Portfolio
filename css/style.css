@@ -63,7 +63,7 @@ section.centro div.left {
 div.up {
   display: flex;
   flex-direction: column;
-  padding:0px 130px;
+  padding:0px 125px;
 }
 
 div.up h1{
